@@ -6,7 +6,7 @@ public class StudentController2 {
         System.out.println("Sprint 2 - Colaborador");
     }
     
- public void responsable(){
+    public void responsable(){
         System.out.println("Responsable sprint-2");
     }
 
