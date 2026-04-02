@@ -5,5 +5,9 @@ public class StudentController2 {
     public void mostrar(){
         System.out.println("Sprint 2 - Colaborador");
     }
+    
+ public void responsable(){
+        System.out.println("Responsable sprint-2");
+    }
 
 }
